@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/dermidgen/sourced-repo-couchdb/issues"
   },
-  "homepage": "https://github.com/dermidgen/sourced-repo-couchdb#readme"
+  "homepage": "https://github.com/dermidgen/sourced-repo-couchdb#readme",
+  "dependencies": {
+    "cradle": "^0.7.1",
+    "debug": "^2.2.0",
+    "sourced": "^0.1.1"
+  }
 }
