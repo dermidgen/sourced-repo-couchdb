@@ -1,0 +1,25 @@
+{
+  "name": "sourced-repo-couchdb",
+  "version": "0.0.1",
+  "description": "couchdb data store and repository for sourced-style event sourcing models",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dermidgen/sourced-repo-couchdb.git"
+  },
+  "keywords": [
+    "sourced",
+    "event-source",
+    "eventsource",
+    "couchdb"
+  ],
+  "author": "Danny Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dermidgen/sourced-repo-couchdb/issues"
+  },
+  "homepage": "https://github.com/dermidgen/sourced-repo-couchdb#readme"
+}
