@@ -1,5 +1,5 @@
-var couchdb = require('cradle');
+var cradle = require('cradle');
 
 module.exports = function(db) {
-  return couchdb.use(db);
+  return new(cradle.Connection)().database(db);
 };
